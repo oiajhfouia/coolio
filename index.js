@@ -43,15 +43,11 @@
 
     // ====== THE SCRIPT ======
     var SCRIPT = [
-      "hey sorry for dming, our server just hit 1.8k members so we're doing a giveaway for a 𝗦𝗨𝗣𝗘𝗥 𝗦𝗨𝗣𝗘𝗥 𝗛𝗔𝗣𝗣𝗬 𝗙𝗔𝗖𝗘  ( SSHF ) ",
-      "uhmm how do i claim it tho?? Is there any catches?",
-      "no lol you just won, this is probably the biggest giveaway we have done",
-      "how do i get it?",
-      "make sure to join our discord server here: https://discord.gg/tradeblox",
-      "Okay is that it?",
-      "yeah you can trust me btw im a moderator and im trusted in the community",
-      "It is telling me to verify",
-      "just make sure to do it and let me know when you are done",
+      "Hey, I am DMing you in regard of our server that just hit 3.4K members.",
+      "ok?",
+      "Would you like to enter our 3.4K member givveaway of a Super Super Happy Face",
+      "Yeah sure why not how do I join",
+      "All you need to do is send 20 messages in the server and invite 5 people, here is the server invite https://discord.gg/kWcAMFvWR",
     ];
     // ========================
 
