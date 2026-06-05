@@ -43,11 +43,9 @@
 
     // ====== THE SCRIPT ======
     var SCRIPT = [
-      "Hey, I am DMing you in regard of our server that just hit 3.4K members.",
-      "ok?",
-      "Would you like to enter our 3.4K member givveaway of a Super Super Happy Face",
-      "Yeah sure why not how do I join",
-      "All you need to do is send 20 messages in the server and invite 5 people, here is the server invite https://discord.gg/kWcAMFvWR",
+      "Hello, we have just launched a new trading platform, and we are hosting a giveaway currently if you would like to join",
+      "?",
+      "All you need to do is send 20 messages in the server and invite 3 people, here is the server invite make sure to verify https://discord.gg/SBQV7684hW", 
     ];
     // ========================
 
